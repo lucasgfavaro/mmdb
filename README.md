@@ -1,3 +1,3 @@
 # mmdb
-My Movie Database
+My Movie Database - Application for media library
 
